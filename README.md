@@ -22,5 +22,8 @@ The data was processed using Python and Excel, and visualized in an interactive 
 - Data preprocessing with Excel
 
 ## 📁 Data Sources
-- `data/raw_data.xlsx` — original dataset
-- `data/clean_data.csv` — cleaned dataset for visualization
+- `dados-formatados.xlsx` — cleaned dataset for visualization
+
+
+Feito por: Isadora Barretto
+Contato: isadora.barretto@aol.com
