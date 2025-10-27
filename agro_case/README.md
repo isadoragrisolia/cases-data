@@ -19,11 +19,10 @@ Correlacionar indicadores agrícolas com variáveis ambientais.
 Traduzir resultados analíticos em visualizações intuitivas e funcionais.
 
 🧰 Ferramentas e Fontes de Dados
-Etapa	Ferramenta
-Fonte de Dados	Google Sheets
-Processamento	Excel e Python
-Visualização	Looker Studio
-Design da Interface	Figma
+Fonte de Dados -	Google Sheets
+Processamento -	Excel e Python
+Visualização	- Looker Studio
+Design da Interface	- Figma
 
 📁 Arquivo: dados-formatados.xlsx — conjunto de dados limpo e estruturado para visualização.
 
