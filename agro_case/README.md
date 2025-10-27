@@ -1,32 +1,49 @@
-🍊 Análise de Dados — Produção de Laranja (Looker Studio)
+# 🍊 Case Agro — Produção de Laranja (Looker Studio)
 
-🔗 [Ver dashboard no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c3336c6c-36eb-4201-a942-43f27903b90a/page/Xc9GF)
+🔗 [Ver Dashboard Interativo no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c3336c6c-36eb-4201-a942-43f27903b90a/page/Xc9GF)
 
-Este projeto apresenta uma análise exploratória de dados (EDA) sobre a produção de laranja em uma fazenda brasileira, com dados coletados entre 2020 e 2024.
-O objetivo é oferecer uma visão integrada da produtividade agrícola, variações sazonais e influência da chuva, auxiliando a tomada de decisão sustentável ao correlacionar clima, solo e rendimento.
+---
 
-O dashboard foi desenvolvido no Looker Studio e combina análise de dados com design visual criado no Figma, garantindo clareza estética e legibilidade.
-A interface permite filtrar resultados por ano, talhão e condições climáticas, promovendo uma exploração interativa dos dados.
+## 📋 Descrição
 
-🌱 Objetivos do Projeto
+Este projeto foi desenvolvido como **case técnico para um processo seletivo em uma empresa de agronegócios**, no qual fui **aprovada nesta etapa**.  
+O desafio consistia em criar uma **análise exploratória de dados (EDA)** com foco em **produtividade agrícola**, **impactos climáticos** e **eficiência operacional** em uma fazenda produtora de laranjas.
 
-Monitorar tendências de produção e produtividade.
+O dashboard foi elaborado no **Looker Studio** e o **design da interface foi desenvolvido no Figma**, garantindo clareza estética e narrativa visual coesa.
 
-Identificar gargalos operacionais e oportunidades de melhoria.
+---
 
-Correlacionar indicadores agrícolas com variáveis ambientais.
+## 🌱 Objetivos do Projeto
+- Identificar padrões de produção ao longo dos anos (2020–2024).  
+- Relacionar produtividade com fatores climáticos (chuva e temperatura).  
+- Apresentar uma interface analítica visual e intuitiva.  
+- Comunicar resultados de forma acessível e visualmente profissional.  
 
-Traduzir resultados analíticos em visualizações intuitivas e funcionais.
+---
 
-🧰 Ferramentas e Fontes de Dados
-Fonte de Dados -	Google Sheets
-Processamento -	Excel e Python
-Visualização	- Looker Studio
-Design da Interface	- Figma
+## 🧰 Ferramentas Utilizadas
 
-📁 Arquivo: dados-formatados.xlsx — conjunto de dados limpo e estruturado para visualização.
+| Etapa | Ferramenta |
+|-------|-------------|
+| Fonte de Dados | **Google Sheets** |
+| Pré-processamento | **Excel**, **Python** |
+| Visualização | **Looker Studio** |
+| Design Visual | **Figma** |
 
-✍️ Autoria
+**📁 Arquivo Base:** `dados-formatados.xlsx` — conjunto de dados limpo e estruturado para visualização.
 
-Feito por Isadora Barretto
-📧 isadora.barretto@aol.com
+---
+
+## 🖼️ Design e Visual
+O design foi criado no **Figma**, com inspiração em dashboards de sustentabilidade e visualização agrícola, adotando tons **laranja, verde e areia**, transmitindo naturalidade e legibilidade.
+
+![Preview do Dashboard](./Images/overview.png)
+
+---
+
+## ✍️ Autoria
+Feito por **Isadora Barretto**  
+📧 `isadora.barretto@aol.com`  
+🔗 [LinkedIn](https://www.linkedin.com/in/isadoracbarretto)
+
+> “Transformar dados em decisões é a essência de um design analítico eficaz.”
