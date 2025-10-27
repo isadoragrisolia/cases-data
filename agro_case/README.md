@@ -1,20 +1,33 @@
-Data Analysis (Looker Studio)
-🔗 View the live report
+🍊 Análise de Dados — Produção de Laranja (Looker Studio)
 
-📊 Overview
-Dashboard created in Looker Studio.
+🔗 [Ver dashboard no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c3336c6c-36eb-4201-a942-43f27903b90a/page/Xc9GF)
 
-This project presents an exploratory data analysis (EDA) of orange production at a Brazilian farm, using data collected between 2020 and 2024. The dashboard was created in Looker Studio and provides visual insights into key indicators such as total yield, productivity per hectare, seasonal variations, rainfall influence, and operational efficiency.
+Este projeto apresenta uma análise exploratória de dados (EDA) sobre a produção de laranja em uma fazenda brasileira, com dados coletados entre 2020 e 2024.
+O objetivo é oferecer uma visão integrada da produtividade agrícola, variações sazonais e influência da chuva, auxiliando a tomada de decisão sustentável ao correlacionar clima, solo e rendimento.
 
-The goal is to help decision-makers monitor production trends, identify bottlenecks, and support sustainable agricultural practices by integrating climate and soil data into the analysis.
+O dashboard foi desenvolvido no Looker Studio e combina análise de dados com design visual criado no Figma, garantindo clareza estética e legibilidade.
+A interface permite filtrar resultados por ano, talhão e condições climáticas, promovendo uma exploração interativa dos dados.
 
-The data was processed using Python and Excel, and visualized in an interactive dashboard that allows users to filter by year, plot, and weather conditions.
+🌱 Objetivos do Projeto
 
-🛠️ Tools
-Google Sheets (data source)
-Looker Studio
-Data preprocessing with Excel
-📁 Data Sources
-dados-formatados.xlsx — cleaned dataset for visualization
-Feito por: Isadora Barretto
-Contato: isadora.barretto@aol.com
+Monitorar tendências de produção e produtividade.
+
+Identificar gargalos operacionais e oportunidades de melhoria.
+
+Correlacionar indicadores agrícolas com variáveis ambientais.
+
+Traduzir resultados analíticos em visualizações intuitivas e funcionais.
+
+🧰 Ferramentas e Fontes de Dados
+Etapa	Ferramenta
+Fonte de Dados	Google Sheets
+Processamento	Excel e Python
+Visualização	Looker Studio
+Design da Interface	Figma
+
+📁 Arquivo: dados-formatados.xlsx — conjunto de dados limpo e estruturado para visualização.
+
+✍️ Autoria
+
+Feito por Isadora Barretto
+📧 isadora.barretto@aol.com
