@@ -66,11 +66,11 @@ O dashboard apresenta a **produção de laranja entre 2020 e 2024**, destacando 
 ---
 
 ## 👩‍💻 Sobre mim
-**Isadora Grisólia Barretto**  
+**Isadora Barretto**  
 📍 Brasil  
 📧 `isadora.barretto@aol.com`  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadoragrisolia)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadoracbarretto)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isadoragrisolia)
 
 > “Dados bem apresentados contam histórias que números sozinhos não conseguem.”
