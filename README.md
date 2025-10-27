@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Dashboards e Análises — Isadora Grisólia
+# 🚀 Portfólio de Dashboards e Análises — Isadora Barretto
 
 Bem-vindo(a) ao meu repositório de **dashboards e estudos de dados**, com foco em design informativo, clareza visual e storytelling aplicado à análise de dados.  
 Aqui concentro meus principais projetos desenvolvidos em **Power BI** e **Looker Studio**, combinando análise técnica, estética visual e propósito aplicado.
