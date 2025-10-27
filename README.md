@@ -1,7 +1,7 @@
 # 🚀 Portfólio de Dashboards e Análises — Isadora Grisólia
 
 Bem-vindo(a) ao meu repositório de **dashboards e estudos de dados**, com foco em design informativo, clareza visual e storytelling aplicado à análise de dados.  
-Aqui concentro meus principais projetos desenvolvidos em **Power BI** e **Looker Studio**, combinando análise técnica e design de interface.
+Aqui concentro meus principais projetos desenvolvidos em **Power BI** e **Looker Studio**, combinando análise técnica, estética visual e propósito aplicado.
 
 ---
 
@@ -10,7 +10,7 @@ Aqui concentro meus principais projetos desenvolvidos em **Power BI** e **Looker
 | Projeto | Descrição | Link |
 |----------|------------|------|
 | [BMW Analysis](./bmw_analysis/README.md) | Dashboard interativo desenvolvido no **Power BI**, inspirado no design da marca BMW. Aplica técnicas de **glassmorphism**, **gradientes** e **KPIs dinâmicos**. | 🔗 [Ver Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiMjdhMjY5NWQtY2E4OS00MmNjLTgxNTctZmYzM2Y3NWEwNTE2IiwidCI6ImE5ODc2MGM5LWI4MzUtNDNiYi04MThhLTM5YjkyNDkyYzhjMyJ9) |
-| [Produção de Laranja (EDA)](#-análise-de-dados--produção-de-laranja-looker-studio) | Análise exploratória da produção agrícola em uma fazenda brasileira entre 2020–2024. Dashboard criado no **Looker Studio** com design feito no **Figma**. | 🍊 [Ver Dashboard no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c3336c6c-36eb-4201-a942-43f27903b90a/page/Xc9GF) |
+| [Case Agro — Produção de Laranja (EDA)](./agro_case/README.md) | Case técnico desenvolvido para uma **empresa de agronegócios**, como parte de um processo seletivo no qual fui **aprovada nesta etapa**. O dashboard foi criado no **Looker Studio** e o design no **Figma**. | 🍊 [Ver Dashboard no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c3336c6c-36eb-4201-a942-43f27903b90a/page/Xc9GF) |
 
 ---
 
@@ -28,8 +28,8 @@ Aqui concentro meus principais projetos desenvolvidos em **Power BI** e **Looker
 
 ## 🎨 Diretrizes de Design
 Todos os dashboards seguem princípios de:
-- **Consistência visual** (paletas fixas e coerentes por projeto)
-- **Layout otimizado (1280x720 px)** para exibição web
+- **Consistência visual** (paletas e estilos coerentes por projeto)
+- **Layout otimizado (1280x720 px)** para exibição online
 - **Equilíbrio entre dados e estética**
 - **Hierarquia visual e legibilidade**
 
@@ -47,13 +47,13 @@ Inclui **gradientes personalizados**, **efeitos de transparência**, **ícones m
 
 ---
 
-### 🍊 **Análise de Dados — Produção de Laranja (Looker Studio)**
+### 🍊 **Case Agro — Produção de Laranja (Looker Studio)**
 🔗 [Ver dashboard no Looker Studio](https://lookerstudio.google.com/u/0/reporting/c3336c6c-36eb-4201-a942-43f27903b90a/page/Xc9GF)
 
-Este projeto apresenta uma **análise exploratória de dados (EDA)** sobre a **produção de laranja em uma fazenda brasileira**, com dados coletados entre **2020 e 2024**.  
-O objetivo é fornecer uma visão integrada da produtividade agrícola, variações sazonais e influência do clima, auxiliando a **tomada de decisão sustentável**.
+Projeto desenvolvido como **case técnico para um processo seletivo em uma empresa de agronegócios**, com o objetivo de demonstrar **análise exploratória de dados (EDA)**, clareza visual e raciocínio analítico aplicado a dados agrícolas.  
+O dashboard apresenta a **produção de laranja entre 2020 e 2024**, destacando produtividade, clima e eficiência operacional.  
 
-📐 O design visual foi elaborado no **Figma**, unindo clareza estética e coerência com a narrativa de dados.
+📐 O design visual foi criado no **Figma**, com foco em cores orgânicas e equilíbrio informativo.
 
 🧰 **Ferramentas**  
 - Google Sheets (fonte de dados)  
@@ -61,7 +61,7 @@ O objetivo é fornecer uma visão integrada da produtividade agrícola, variaç�
 - Looker Studio (visualização interativa)  
 - Figma (design visual)
 
-📁 Arquivo: `dados-formatados.xlsx` — dataset limpo e estruturado.
+📁 [Ver README completo do projeto](./agro_case/README.md)
 
 ---
 
@@ -69,6 +69,8 @@ O objetivo é fornecer uma visão integrada da produtividade agrícola, variaç�
 **Isadora Grisólia Barretto**  
 📍 Brasil  
 📧 `isadora.barretto@aol.com`  
-🔗 [GitHub](https://github.com/isadoragrisolia) | [LinkedIn](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadoragrisolia)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isadoragrisolia)
 
 > “Dados bem apresentados contam histórias que números sozinhos não conseguem.”
