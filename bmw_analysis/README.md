@@ -43,13 +43,10 @@ O projeto tem como foco:
 
 ---
 
-## 🧩 **Estrutura do Projeto**
+✨ Autoria
 
-```bash
-📂 powerbi-dashboard/
- ├── dashboard.pbix           # Arquivo principal do Power BI
- ├── /images/
- │    ├── preview.png          # Screenshot do dashboard publicado
- │    └── color-palette.png    # Paleta de cores usada
- ├── README.md                 # Este documento
- └── data/                     # Pasta opcional de datasets (.xlsx ou .csv)
+Isadora  Barretto
+📧 isadora.barretto@aol.com
+📍 Brasil
+🎓 Projeto desenvolvido para fins de aprendizado e portfólio em análise e visualização de dados.
+
